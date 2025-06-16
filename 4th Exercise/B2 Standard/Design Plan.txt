@@ -1,0 +1,34 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Donnerstag, 13. Juni 2024, 17:39.
+
+Drawing:
+This is a transmittal based on Design Plan.dwg.
+
+Files:
+
+Root Drawing:
+	Design Plan.dwg
+
+TIF-Datei References:
+	anr_21457__Daten-Position_0\16_dgk5g_32362_5620_2_nw.tif
+	anr_21457__Daten-Position_0\26_dgk5g_32364_5620_2_nw.tif
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+	Fonts\txt.shx
+
+The following files could not be located:
+	PlotCfgs\HP Designjet Z5400 PS HPGL2.pc3
+
+
+Notes for distribution:
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\Entwurf24_xx\AppData\Roaming\Autodesk\AutoCAD 2023\R24.2\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
